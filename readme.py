@@ -1,6 +1,6 @@
-print("hello world")
+print("new one")
 
-print("one two")
+print("new two")
 
-print("three four")
+print("new three")
 
